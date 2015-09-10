@@ -6,3 +6,4 @@ My stupid boss still prefers SVN.
 
 $ git add readme.txt
 Creating a new branch is quick.
+wangjunma is a stupid human.
